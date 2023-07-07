@@ -1,4 +1,10 @@
-### Hi there 👋
+### 👋 Hi, I'm Kuldeep Singh
+
+- 👀 I'm a Data Science trainee and enthusiast living in Ghaziabad, NCR.
+- 👯 I’m looking to collaborate on Data Science projects.
+- 💬 Ask me about Statistics, DataScience & Cricket.
+- 📫 Connect me on linkedin.com/in/kuldeep-sngh
+
 
 <!--
 **kuldeep-sngh/kuldeep-sngh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
